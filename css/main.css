@@ -1,0 +1,39 @@
+.main{
+    background-color: var(--c12);
+}
+
+.main-container {
+    padding: var(--space-200) var(--space-032) var(--space-120) var(--space-032);
+    max-width: var(--max-width);
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+    gap: var(--space-080);
+}
+
+.main h1 {
+    margin-bottom: var(--space-032);
+}
+
+.main img {
+    height: 800px;
+   
+}
+
+
+.main-texto {
+    font: var(--font-2-l);
+    margin-bottom: var(--space-020)
+}
+
+.button {
+    background: linear-gradient(#FFBF00, #F2A50C);
+    padding: var(--space-016) var(--space-032) ;
+    display: inline-block;
+    font: var(--font-1-m-b);
+    color: var(--p5);
+    text-transform: uppercase;
+    margin-bottom: var(--space-120);
+    border-radius: 5px;
+}
