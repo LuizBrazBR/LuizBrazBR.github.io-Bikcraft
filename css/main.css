@@ -1,9 +1,10 @@
 .main {
   background-color: var(--c12);
+  box-shadow: inset 0 -120px white;
 }
 
 .main-container {
-  padding: var(--space-200) var(--space-032) var(--space-120) var(--space-032);
+  padding: var(--space-032) var(--space-032) 0 var(--space-032);
   max-width: var(--max-width);
   margin: 0 auto;
   display: grid;
@@ -35,4 +36,9 @@
   text-transform: uppercase;
   margin-bottom: var(--space-120);
   border-radius: 5px;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+}
+
+.button:hover {
+  background: linear-gradient(#cc9900, #c28509);
 }
