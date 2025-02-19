@@ -4,3 +4,9 @@
   margin: 0 auto;
   box-sizing: border-box;
 }
+
+.link {
+  color: var(--p1);
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+}

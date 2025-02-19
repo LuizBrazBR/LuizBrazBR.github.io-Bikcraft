@@ -13,11 +13,6 @@
 .main h1 {
   margin-bottom: var(--space-032);
 }
-
-.main img {
-  height: 700px;
-}
-
 .main-texto {
   font: var(--font-2-l);
   margin-bottom: var(--space-020);
