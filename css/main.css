@@ -4,14 +4,10 @@
 }
 
 .main-container {
-  padding: var(--space-032) var(--space-032) 0 var(--space-032);
-  max-width: var(--max-width);
-  margin: 0 auto;
   display: grid;
   grid-template-columns: 1fr 1fr;
   align-items: center;
   gap: var(--space-080);
-  box-sizing: border-box;
 }
 
 .main h1 {
@@ -19,7 +15,7 @@
 }
 
 .main img {
-  height: 800px;
+  height: 700px;
 }
 
 .main-texto {
