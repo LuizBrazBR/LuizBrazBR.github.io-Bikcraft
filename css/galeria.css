@@ -1,6 +1,6 @@
 .galeria {
   max-width: calc(var(--max-width) + var(--space-200));
-  padding-top: var(--space-060);
+  padding-top: var(--space-120);
 }
 
 .galeria-fotos {

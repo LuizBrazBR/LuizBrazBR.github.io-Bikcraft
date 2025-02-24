@@ -18,6 +18,14 @@
   margin-bottom: var(--space-020);
 }
 
+.main-img img {
+  height: 100%;
+  object-fit: cover;
+  width: 100%;
+  object-position: left;
+
+}
+
 .button {
   background: linear-gradient(#ffbf00, #f2a50c);
   padding: var(--space-016) var(--space-032);

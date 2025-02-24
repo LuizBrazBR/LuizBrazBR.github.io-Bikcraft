@@ -2,12 +2,18 @@
   max-width: var(--max-width);
   margin: 0 auto;
   box-sizing: border-box;
+  padding: 0 32px 0 32px;
+
 }
 
 .container-2 {
+
   max-width: calc(200px + var(--max-width));
   margin: 0 auto;
   box-sizing: border-box;
+  padding: 0 32px 0 32px;
+
+
 }
 
 .link {

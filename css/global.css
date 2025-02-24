@@ -247,52 +247,52 @@ img {
 }
 
 .padding-004 {
-  padding: var(--space-004);
+  padding-top: var(--space-004);
 }
 .padding-008 {
-  padding: var(--space-008);
+  padding-top: var(--space-008);
 }
 .padding-012 {
-  padding: var(--space-012);
+  padding-top: var(--space-012);
 }
 .padding-016 {
-  padding: var(--space-016);
+  padding-top: var(--space-016);
 }
 .padding-020 {
-  padding: var(--space-020);
+  padding-top: var(--space-020);
 }
 .padding-024 {
-  padding: var(--space-024);
+  padding-top: var(--space-024);
 }
 .padding-032 {
-  padding: var(--space-032);
+  padding-top: var(--space-032);
 }
 .padding-036 {
-  padding: var(--space-036);
+  padding-top: var(--space-036);
 }
 .padding-040 {
-  padding: var(--space-040);
+  padding-top: var(--space-040);
 }
 .padding-048 {
-  padding: var(--space-048);
+  padding-top: var(--space-048);
 }
 .padding-060 {
-  padding: var(--space-060);
+  padding-top: var(--space-060);
 }
 .padding-072 {
-  padding: var(--space-072);
+  padding-top: var(--space-072);
 }
 .padding-080 {
-  padding: var(--space-080);
+  padding-top: var(--space-080);
 }
 .padding-120 {
-  padding: var(--space-120);
+  padding-top: var(--space-120);
 }
 .padding-160 {
-  padding: var(--space-160);
+  padding-top: var(--space-160);
 }
 .padding-200 {
-  padding: var(--space-200);
+  padding-top: var(--space-200);
 }
 
 :root {
